@@ -1,0 +1,21 @@
+subject,relation,object
+Albert Einstein,developed,Theory of Relativity
+Theory of Relativity,explains,Space and Time
+Isaac Newton,formulated,Laws of Motion
+Laws of Motion,describe,Physical Movement
+Marie Curie,discovered,Radium
+Radium,is a,Chemical Element
+Alan Turing,contributed to,Computer Science
+Computer Science,includes,Artificial Intelligence
+Artificial Intelligence,uses,Machine Learning
+Machine Learning,uses,Training Data
+Python,is a,Programming Language
+Flask,is a,Python Web Framework
+Flask,used for,Web Applications
+spaCy,is a,Natural Language Processing Library
+Sentence Transformers,used for,Semantic Search
+Semantic Search,finds,Meaningful Results
+Knowledge Graph,represents,Relationships
+Knowledge Graph,contains,Nodes and Edges
+CSV,stores,Structured Data
+Data,processed by,Machine Learning

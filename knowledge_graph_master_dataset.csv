@@ -1,0 +1,55 @@
+subject,relation,object
+Albert Einstein,developed,Theory of Relativity
+Theory of Relativity,explains,Space and Time
+Theory of Relativity,predicts,Gravitational Waves
+Gravitational Waves,detected by,LIGO Observatory
+Isaac Newton,formulated,Laws of Motion
+Isaac Newton,discovered,Universal Gravitation
+Laws of Motion,describe,Classical Mechanics
+Classical Mechanics,applies to,Physical Movement
+Marie Curie,discovered,Radium
+Marie Curie,discovered,Polonium
+Radium,is a,Radioactive Element
+Radioactive Element,used in,Cancer Radiotherapy
+Alan Turing,conceived,Turing Machine
+Turing Machine,is theoretical model of,Computation
+Alan Turing,contributed to,Artificial Intelligence
+Artificial Intelligence,includes,Machine Learning
+Machine Learning,includes,Deep Learning
+Deep Learning,uses,Artificial Neural Networks
+Artificial Neural Networks,inspired by,Human Brain
+Machine Learning,requires,Training Data
+Training Data,stored in,Vector Databases
+Vector Databases,used for,Semantic Search
+Sentence Transformers,used for,Semantic Search
+Semantic Search,retrieves,Relevant Knowledge
+Knowledge Graph,represents,Connected Entities
+Knowledge Graph,contains,Nodes and Edges
+Python,is a,Programming Language
+Python,supports,Data Science
+Flask,is a,Web Framework
+Flask,developed in,Python
+spaCy,is a,Natural Language Processing Library
+spaCy,performs,Dependency Parsing
+Dependency Parsing,extracts,Subject Predicate Object Triples
+James Watson,co-discovered,DNA Double Helix
+Francis Crick,co-discovered,DNA Double Helix
+DNA,stores,Genetic Information
+Genetic Information,determines,Biological Traits
+CRISPR-Cas9,used for,Gene Editing
+Gene Editing,cures,Genetic Disorders
+Nikola Tesla,invented,Alternating Current
+Alternating Current,powers,Electrical Grid
+Thomas Edison,advocated,Direct Current
+Quantum Computing,leverages,Quantum Mechanics
+Quantum Mechanics,features,Superposition
+Quantum Mechanics,features,Quantum Entanglement
+Superposition,enables,Parallel Computation
+Qubits,are basic units of,Quantum Computing
+NASA,launched,James Webb Space Telescope
+James Webb Space Telescope,observes,Deep Universe
+Deep Universe,contains,Exoplanets
+Exoplanets,orbit around,Distant Stars
+Earth,orbits around,Sun
+Sun,is center of,Solar System
+Solar System,located inside,Milky Way Galaxy
